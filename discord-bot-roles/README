@@ -1,0 +1,13 @@
+# Bot Join A Match Roles
+
+## Installations :
+
+To install and configure the bot, make sure to use the following command: "node index.js" to bring the bot online.
+
+If you make updates to the "role" feature, navigate to the file located in: "commands/roles.js".
+
+Once you have updated the code, run the "node deploy-commands.js" command, which is a command loader that will update the bot with the code you previously wrote in the file.
+
+Final step: Restart the bot with the following command: "node index.js"
+
+Then test the bot.
